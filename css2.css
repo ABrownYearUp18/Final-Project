@@ -1,0 +1,93 @@
+.topnav{
+ overflow: hidden;
+  background-color: #;
+width: 100%;
+line-height:60px;
+font-family: "algerian";
+font-style: bold;
+}
+*{padding: 0px;
+	margin: 0px
+}
+header, footer {
+	margin-top: 0px;
+	padding-top: 0px;
+    padding: 1em;
+    color: white;
+    width: 100%;
+    background-color: gold	;
+    clear: 	left;
+    text-align: center;
+    display: block;
+    background-image:url("https://cdn5.kicksonfire.com/wp-content/uploads/2015/07/supreme-x-jordan-brand.jpg?x77385");
+}
+
+body{ 
+	background-color: red;
+	color:black;
+	text-align: center;	
+	background-image: url("https://cdn.wallpapersafari.com/93/57/cv9Y4u.jpg");
+
+  
+    margin: 0;
+    padding: 1em;
+}
+div a{padding: 20px;
+	padding-right: 0px;
+
+
+}
+
+h1{text-align: center;
+width: 100%;
+}
+nav ul {
+	color: gold;
+	
+	font-weight:bold; 
+	font-size: 100%;
+	font-family: "arial";
+	width:170px;
+	float: left;
+	height: 1100px;
+	text-align: ;
+
+	background-image: url("http://content.pimp-my-profile.com/i62/7/3/30/f_9bbde8fb40.jpg");
+    list-style-type: none;
+    padding: 20px;
+    margin: 0px;
+    font-weight: 400px;
+}
+nav ul li{list-style-type: none;
+	display: block;
+	padding: 45px;
+	border-bottom: 1px solid #CCC;
+}
+   
+ ul li:hover  {
+    text-decoration: none;
+}
+
+article {
+	margin-left: 170px;
+    border-left: 1px solid gray;
+    border-right: 1px;
+    padding: 1em;
+    color: white;
+    ;
+}
+div.one {margin-left: 170px;
+	width: ;
+    border: ;
+    color: white;
+    
+    padding: 1em;
+    overflow: ;
+    float: ;
+background-color: ;}
+div.two{background-color: ;
+	padding: 1em;
+float: }
+
+}
+
